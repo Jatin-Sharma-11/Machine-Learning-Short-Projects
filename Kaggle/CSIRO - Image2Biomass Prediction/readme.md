@@ -46,7 +46,7 @@ Due to the very small dataset, heavy data augmentation is critical.
     * `GDM_g`: 0.2
     * Others: 0.1
 * **Optimizer:** `AdamW` (learning rate: `1e-4`).
-* **Strategy:** The model is trained for **[TODO: Fill in # epochs, e.g., 20 Epochs]**, saving only the model weights that achieve the lowest validation loss.
+* **Strategy:** The model is trained for **20 Epochs**, saving only the model weights that achieve the lowest validation loss.
 
 ### 5. Prediction
 
@@ -65,9 +65,9 @@ Due to the very small dataset, heavy data augmentation is critical.
 
 ## 📊 Results
 
-* **Final Validation Loss (Weighted MSE):** [TODO: Fill in your best validation loss, e.g., 0.6767]
-* **Public LB Score:** [TODO: Fill in your LB score]
-* **Private LB Score:** [TODO: Fill in your final score]
+* **Final Validation Loss (Weighted MSE):** **0.4802**
+* **Public LB Score:** `[TODO: Fill in your LB score]`
+* **Private LB Score:** `[TODO: Fill in your final score]`
 
 ---
 
