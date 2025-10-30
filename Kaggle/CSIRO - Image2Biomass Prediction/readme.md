@@ -66,8 +66,8 @@ Due to the very small dataset, heavy data augmentation is critical.
 ## 📊 Results
 
 * **Final Validation Loss (Weighted MSE):** **0.4802**
-* **Public LB Score:** `[TODO: Fill in your LB score]`
-* **Private LB Score:** `[TODO: Fill in your final score]`
+* **Public LB Score:** [TODO: Fill in your LB score after submission]
+* **Private LB Score:** [TODO: Fill in your final score]
 
 ---
 
