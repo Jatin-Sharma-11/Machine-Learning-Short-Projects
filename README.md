@@ -45,24 +45,25 @@ Each project highlights skills in:
 git clone https://github.com/Jatin-Sharma-11/Machine-Learning-Short-Projects.git
 cd Machine-Learning-Short-Projects
 
+---
 
 ### 2️⃣ Create Virtual Environment
 ```bash
 python -m venv venv
 source venv/bin/activate   # Linux/macOS
-
+---
 
 ### 3️⃣ Install Dependencies
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 pip install tensorflow keras   # For deep learning projects
-
+---
 
 ### 4️⃣ Run Any Project
 ```bash
 cd "Hull Tactical - Market Predic..."
 jupyter notebook
-
+---
 
 
 
